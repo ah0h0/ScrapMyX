@@ -1,5 +1,4 @@
 # ScrapMyX
-___
 ## ⇁ TOC:
 
 - [Overview of project](#-overview)
@@ -7,7 +6,6 @@ ___
 - [Get Started](#-getting-started)
 - [Contributions](#-contributing)
 - [Licence](#-license)
-___
 
 ## **⇁ Overview:**
 
